@@ -1,0 +1,8 @@
+4 1               cond lim:1:sod/2:123-problem/3:strong shock/4:blast waves; solver:1:HLL/2:HLLC
+1                order: 1 or 2
+3200			     Nombre de mailles
+1.0d0			 Longueur du tube
+0.038d0			 Temps final
+9999999     nombre max d iteration
+0.7d0			 Cfl
+1000 1000 0.1D0  ImpreE, ImpreF, period_time
